@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mar{
+    margin-bottom: 100px;
+}
+.custom-img{
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%;
+}
+.des1 h1{
+    text-align: center;
+    /* font-family: '"Cerebri Sans", Roboto'; */
+    font-size: 36px;
+    padding: 30px 0px;
+}
+.flex{
+    display: flex;
+}
+.menu1 ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    padding: 20px;
+} 
+.menu1 ul li a:hover{
+    color: #f68773;
+}
+.menu1 ul li{
+    list-style: none;
+}
+.j-center{
+    justify-content: center;
+}
